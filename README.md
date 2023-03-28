@@ -76,20 +76,6 @@ After you're finished please remove all the comments and instructions!
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -208,17 +194,16 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## 👥 Authors
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+<a name="authors"></a>
 
-👤 **Author2**
+👤 **Jugoslav Achkoski**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@github](https://github.com/jugosack)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jugoslavachkoski/)
+- Twitter: [twitter](https://twitter.com/Jugoslav_A)
+- Facebook: [facebook](https://www.facebook.com/jugoslav.ackoski/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
