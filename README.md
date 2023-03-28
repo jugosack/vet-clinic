@@ -91,10 +91,6 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-## 👥 Authors
-
 <a name="authors"></a>
 
 👤 **Jugoslav Achkoski**
@@ -106,19 +102,6 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Update animals table data**
-- [ ] **Query multiple tables**
-- [ ] **Add "join table" for visits**
-- [ ] **Implement database performance audit**
-- [ ] **Add database schema diagram**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
