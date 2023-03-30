@@ -41,6 +41,15 @@ In this project, I used a relational database to create the initial data structu
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+<br>
+
+### Key Features <a name="key-features"></a>
+
+- **Queries**
+- **Data insertion**
+- **Transaction**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -90,6 +99,13 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add "join table" for visits**
+- [ ] **Implement database performance audit**
+- [ ] **Add database schema diagram**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
