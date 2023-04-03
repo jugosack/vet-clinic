@@ -79,4 +79,4 @@ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 --Change age in owners
 ALTER TABLE owners
 ALTER COLUMN age DROP NOT NULL;
-ALTER TABLE
+
