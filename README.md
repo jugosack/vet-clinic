@@ -97,11 +97,16 @@ Clone this repository to your desired folder:
 - Twitter: [twitter](https://twitter.com/Jugoslav_A)
 - Facebook: [facebook](https://www.facebook.com/jugoslav.ackoski/)
 
+👤 **Joshua Lyngdoh**
+
+- GitHub: [@githubhandle](https://github.com/joshualyngdoh)
+- Twitter: [@twitterhandle](https://twitter.com/joshualyngdoh08)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/JoshuaLyngdoh)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add "join table" for visits**
 - [ ] **Implement database performance audit**
 - [ ] **Add database schema diagram**
 
