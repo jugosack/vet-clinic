@@ -188,6 +188,55 @@ WHERE vets.name = 'Maisy Smith'
 GROUP BY animals.species_id, vets.name
 ORDER BY total_visits DESC;
 
+----------------------------------------------------------------------------------------
+--Optimizing database query 1
+SELECT COUNT(*) FROM visits where animal_id = 4;
+
+--Analysing performance query 1
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 4;
+
+--Optimize via indenxing query 1
+CREATE INDEX animal_id_index ON visits (animal_id);
+
+--Analysing performance after indenxing query 1
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 4;
+
+--Optimizing database query 2
+SELECT * FROM visits where vet_id = 2;
+
+--Analysing performance query 2
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+
+--Optimize via indenxing query 2
+CREATE INDEX vet_id_index ON visits (vet_id);
+
+--Analysing performance after indenxing query 2
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+
+--Optimizing database query 3
+SELECT * FROM owners where email = 'owner_18327@mail.com';
+
+--Analysing performance query 3
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
+
+--Optimize via indenxing query 3
+CREATE INDEX email_index ON owners (email);
+
+--Analysing performance after indenxing query 2
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

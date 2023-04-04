@@ -72,3 +72,11 @@ CREATE TABLE visits (
     CONSTRAINT fk_visits_vets
         FOREIGN KEY (vet_id) REFERENCES vets (id)
 );
+
+-- Add an email column to your owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+--Change age in owners
+ALTER TABLE owners
+ALTER COLUMN age DROP NOT NULL;
+
