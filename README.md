@@ -51,14 +51,6 @@ In this project, I used a relational database to create the initial data structu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live Demo link comming soon.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 - Use [schema.sql](./schema.sql) to create all tables.
